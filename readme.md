@@ -2,6 +2,8 @@
 
 This is a notebook which I presented internally at my lab, to showcase some energy system data analysis. It was inspired by the OPSD tutorial (https://data.open-power-system-data.org/time_series/2020-10-06).
 
+![Example analysis output](example.png)
+
 # Requirements
 This notebook uses [Brightway2](https://documentation.brightway.dev/en/latest/index.html), data from the [Ecoinvent](https://ecoinvent.org/) 3.6 database, and data from the German grid data portal [SMARD](https://www.smard.de/home/downloadcenter/download-marktdaten/).
 
